@@ -14,5 +14,4 @@ func init() {
 	if err != nil {
 		panic("连接错误")
 	}
-
 }
